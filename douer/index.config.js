@@ -87,6 +87,12 @@ var index_config_default = {
     token: "token",
     ut: "ut"
   },
+  emby: {
+    username: "CatPawPlay",
+    password: "CatPawPlay",
+    serverName: "CatPawPlay",
+    enable: true
+  },
   y115: {
     cookie: ""
   },
